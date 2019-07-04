@@ -1,0 +1,246 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">All Things London</string>
+
+    <string name="Big_Ben"> Big Ben Is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster
+        in London and is usually extended to refer to both the clock and the clock tower.
+        The tower in which Big Ben is located is officially called the Elizabeth Tower; originally just the Clock Tower, it was renamed in 2012 for the Diamond Jubilee of Elizabeth II.
+        The tower was designed by Augustus Pugin in a neo-gothic style. </string>
+
+    <string name="Nelsons_Column"> Nelsons Column is a monument in Trafalgar Square in central London built to commemorate Admiral Horatio Nelson, who died at the Battle of Trafalgar in 1805.
+        The monument was constructed between 1840 and 1843 to a design by William Railton at a cost of £47,000.
+        </string>
+
+    <string name="Tower_Bridge"> Tower Bridge is a combined bascule and suspension bridge in London built between 1886 and 1894.
+        The bridge crosses the River Thames close to the Tower of London and has become an iconic symbol of London.
+    </string>
+
+    <string name="London_Zoo">
+        London Zoo is the world\'s oldest scientific zoo. It was opened in London on 27 April 1828, and was originally intended to be used as a collection for scientific study.
+        In 1831 or 1832 the animals of the Tower of London menagerie were transferred to the zoo\'s collection.
+    </string>
+
+    <string name="Madam_Tussauds">
+        Madame Tussauds is a wax museum in London with smaller museums in a number of other major cities.
+        It was founded by wax sculptor Marie Tussaud. It used to be known as "Madame Tussaud's"; the apostrophe is no longer used.
+        Madame Tussauds is a major tourist attraction in London, displaying the waxworks of famous and historic people and also popular film characters.
+    </string>
+
+    <string name="Natural_history">
+        A natural history museum or museum of natural history is a scientific institution with natural history collections that include current and historical records of animals,
+        plants, fungi, ecosystems, geology, paleontology, climatology, and more. The primary role of a natural history museum is to provide the scientific community with current and historical
+        specimens for their research, which is to improve our understanding of the natural world. Some museums have public exhibits to share the beauty and wonder of the natural world with the public;
+        these are referred to as public museums. Some museums feature non-natural history collections in addition to their primary collections, such as ones related to history, art, and science.
+    </string>
+
+    <string name="Queens">
+        The Queen\'s Theatre is a West End theatre located in Shaftesbury Avenue on the corner of Wardour Street in the City of Westminster, London.
+        It opened on 8 October 1907 as a twin to the neighbouring Hicks Theatre (now the Gielgud Theatre) which had opened ten months earlier.
+        Both theatres were designed by W. G. R. Sprague.
+    </string>
+
+    <string name="Lyceum">
+        The Lyceum Theatre (pronounced ly-CEE-um) is a 2,100-seat West End theatre located in the City of Westminster, on Wellington Street, just off the Strand.
+        The origins of the theatre date to 1765.
+
+    </string>
+
+    <string name="vic">
+        The Old Vic is a 1,000-seat, not-for-profit producing theatre, located just south-east of Waterloo station on the corner of the Cut and Waterloo Road in Lambeth, London, England.
+    </string>
+
+    <string name="royal">
+        The Royal National Theatre in London, commonly known as the National Theatre (NT) is one of the United Kingdom\'s three most prominent publicly funded performing arts venues, 
+        alongside the Royal Shakespeare Company and the Royal Opera House. Internationally, it is known as the National Theatre of Great Britain.
+        From its foundation in 1963 until 1976, the company was based at the Old Vic theatre in Waterloo. The current building is located next to the Thames in the South Bank area of central London. 
+        In addition to performances at the National Theatre building, the National Theatre company tours productions at theatres across the United Kingdom.
+        Since 1988, the theatre has been permitted to call itself the Royal National Theatre, but the full title is rarely used. 
+        The theatre presents a varied programme, including Shakespeare and other international classic drama; and new plays by contemporary playwrights. 
+        Each auditorium in the theatre can run up to three shows in repertoire, thus further widening the number of plays which can be put on during any one season.
+        In June 2009, the theatre began National Theatre Live (NT Live), a programme of simulcasts of live productions to cinemas, first in the United Kingdom and then internationally.
+        The programme began with a production of Phèdre, starring Helen Mirren, which was screened live in 70 cinemas across the UK. NT Live productions have since been broadcast to over 2,500 venues in 60 countries around the world.
+        The NT had an annual turnover of approximately £105 million in 2015–16, of which earned income made up 85% (58% from ticket sales, 5% from NT Live and Digital, and 12% from commercial revenue such as in the restaurants, bookshops, etc.). 
+        Support from Arts Council England provided 17% of income, 1% from Learning and Participation activity, and the remaining 9% came from a mixture of companies, individuals, trusts and foundations.
+    </string>
+
+    <string name="prince">
+        The theatre was designed in 1930 by Edward A. Stone, with an interior designed by Marc-Henri Levy and Gaston Laverdet.
+    </string>
+
+    <string name="gielgud">
+        The Gielgud Theatre is a West End theatre, located on Shaftesbury Avenue in the City of Westminster, London, at the corner of Rupert Street. The house currently has 986 seats on three levels.
+    </string>
+
+    <string name="belgo_info">
+        Belgo is a small chain of London restaurants specializing in simple Belgian cooking and Belgian beer.
+        Belgo is noted for its 1990s design and architecture, including kitchens viewable by customers entering the restaurant (Noord and Centraal)
+        and its waiters and waitresses, who dress as monks.[citation needed] Anand Zenz was the designer-architect responsible for the main space and the furniture and fittings at Chalk Farm
+        (Noord, 1992), with Ron Arad taking over as architect-designer for the extension to Noord (1994) and the 13,000-square-foot (1,200 m2) Belgo Centraal,
+        voted London Restaurant of the Year in 1996. There are six Belgo restaurants: Belgo Centraal, on Earlham Street, Covent Garden,
+        Belgo Noord on Chalk Farm Road, the one former Bierodrome on Kingsway, Belgo Bromley in the Glades shopping centre in Bromley which opened in March 2010,
+        Belgo Soho on Old Compton street and Newest addition Belgo in Nottingham.
+    </string>
+
+    <string name="bubba">
+        The Bubba Gump Shrimp Company Restaurant and Market is an American seafood restaurant chain inspired by the 1994 film Forrest Gump. As of July 2015, forty Bubba Gump Shrimp Co. restaurants operate worldwide.
+    </string>
+
+    <string name="thai">
+        Thai Square is a UK restaurant chain with 15 Thai-themed restaurants in London and south-east England.
+        Thai Square was founded in 1996 when the first branch opened on The Strand in central London.
+        The company is owned by Haim Danous, and the head office is at 17-19 Cockspur Street, Trafalgar Square, London.
+    </string>
+
+    <string name="tgi">
+        TGI Fridays is an American restaurant chain focusing on casual dining.
+        The company is a unit of the Sentinel Capital Partners and TriArtisan Capital Partners, who purchased the company from Carlson Companies in May 2014.
+        The name is asserted to stand for "Thank God It's Friday", although as of 2010 some television commercials for the chain have also made use of the alternative phrase,
+        "Thank Goodness It's Friday." Fridays is known for their unique[dubious – discuss] dining and bar-side experiences throughout the world.
+    </string>
+
+    <string name="shake">
+        Shake Shack (NYSE: SHAK) is an American fast casual restaurant chain based in New York City.
+        It started out as a hot dog cart inside Madison Square Park in 2001, and its popularity steadily grew.
+        In 2004 it moved to a stand within the park, expanding its menu from New York-style hotdogs to one with hamburgers, hotdogs, fries and its namesake milkshakes.
+        The company says it uses all-natural 100% Angus beef only and says that its meat has neither hormones nor antibiotics.
+        Since its founding it has been one of the fastest-growing food chains eventually becoming a public company filing for an initial public offering of stock in late 2014.
+        The offering priced on January 29, 2015; the initial price of its shares was at $21 immediately rising by 123% to $47 on their first day of trading.
+        Shake Shack operates 136 locations internationally as of October 2017, typically located in stand-alone restaurants and shopping malls. Shake Shack also operates in stadiums,
+        including Citi Field in New York City, Minute Maid Park in Houston, and the T-Mobile Arena in Las Vegas. It also operates 3 airport locations in New York, Los Angeles, and Dubai.
+        There is also an outlet at the Saratoga Race Course in Saratoga Springs, NY.
+    </string>
+
+    <string name="five">
+        Five Guys Enterprises LLC (doing business as Five Guys Burgers and Fries) is an American fast casual restaurant chain focused on hamburgers, hot dogs, and French fries,
+        and headquartered in Lorton, Virginia, an unincorporated part of Fairfax County. The first Five Guys restaurant opened in 1986 in Arlington County, Virginia, and by 2001,
+        the chain had expanded to five locations throughout the Washington, D.C. metro area. In early 2003, the chain began franchising, beginning a period of rapid expansion.
+        In a year and a half, permits had been sold for over 300 franchised locations.As of 2012, Five Guys had over 1,000 locations open throughout the United States and Canada,
+        with over 1,500 locations under development. At that time, the company was the fastest-growing fast food chain in the United States, with a 32.8% sales increase from 2010 to 2011.
+    </string>
+
+    <string name="institute">
+        Sip on blood cocktails, have a picnic in the middle of a nightclub and witness some of the most original interior design in London.
+        Our sideways bar is a mad house of food, fun times and insane cocktails. Quirky, divine, silly, sublime – however you want to describe it,
+        we give a night out in London you won’t ever forget. Get crazy. Get mad. Get admitted to The Piccadilly Institute..
+    </string>
+
+    <string name="cafe_de_paris">
+        The Café de Paris first opened in 1924 and subsequently featured such performers as Dorothy Dandridge, Marlene Dietrich,
+        Harry Gold, Harry Roy, Ken Snakehips Johnson and Maxine Cooper Gomberg. Louise Brooks made history when she worked there in December 1924,
+        introducing the Charleston to London. Much of the early success of the Café de Paris was due to the visit of the then Prince of Wales who became a regular guest,
+        often dining with notables from high society across Europe. Cole Porter was a regular, as was the Aga Khan.
+    </string>
+
+    <string name="rumba">
+        The underground 455 capacity club has been a Central party location for over 25 years.
+        Hosting 2 large bars, large dance floor and a variety of events Bar Rumba is your ideal party place!
+        Rumba is here for you event needs whether you need a venue for a club night, birthday, stag/hen party, networking event,
+        film/photo shoot, product launch or showcase.
+    </string>
+
+    <string name="cirque">
+        Recognized over the world, Cirque du Soleil has constantly sought to evoke imagination, invoke senses and provoke emotions.
+        Discover the highly creative and artistic shows from Cirque du Soleil in your city: london.
+        Get more information about us and buy tickets for shows at london!
+    </string>
+
+    <string name="hippodrome_info">
+        The London Hippodrome was opened in 1900. It was designed by Frank Matcham for Moss Empires chaired by Edward Moss and built for £250,000 as a hippodrome for circus and variety performances.
+        The venue gave its first for us show on 15 January 1900. The first show ever given was a music hall revue entitled "Giddy Ostend" with Little Tich and (in one of his first roles) Charlie Chaplin.
+        Entry to the venue was through a bar, dressed as a ship\'s saloon and the performance space featured both a proscenium stage and an arena that sank into a 230 ft, 100,000 gallon water tank (400 ton, when full) for aquatic spectacles.
+        The tank featured eight central fountains, and a circle of fountains around the side. Entrances at the side of the auditorium could also be flooded, and used for the entry of boats. Shows included equestrian acts, elephants and polar bears,
+        and acrobats would dive from a Minstrel Gallery above a sliding roof, in the centre of the proscenium arch. The auditorium featured cantilevered galleries, removing the columns that often obstructed views in London theatres,
+        the whole was covered by a painted glass retractable roof, that could be illuminated at night. The building included the headquarters of Moss Empires.
+    </string>
+
+    <string name="zoo_bar">
+        Welcome to Zoo bar, London\'s world famous party bar in the heart of Leicester Square.
+        On the darker side of retro, Zoo has an eclectic mix of decor, with 2 floors, 3 rooms and 4 bars playing a variety of music all night,
+        we provide the perfect atmosphere for every night out! Truly London’s most European bar, Zoo is perfect for early evening cocktails or any party occasion,
+        playing the best in party anthems, hints of Latin vibes thrown in for good measure we also show a vast range of sports from all around the world.
+    </string>
+
+    <!-- string names for each theatre list item -->
+    <string name="queens_theatre_title">Queens Theatre</string>
+    <string name="lyceum_theatre_title">Lyceum Theatre</string>
+    <string name="old_vic_title">Old Vic</string>
+    <string name="theatre_royal_title">Theatre Royal</string>
+    <string name="prince_edward_title">Prince Edward Theatre</string>
+    <string name="gielgud_theatre_title">Gielgud Theatre</string>
+
+    <!-- string names for each sights list item -->
+    <string name="big_ben_title">Big Ben</string>
+    <string name="nelsons_column_title">Nelsons Column</string>
+    <string name="tower_bridge_title">Tower Bridge</string>
+    <string name="london_zoo_title">London Zoo</string>
+    <string name="madam_tussauds_title">Madam Tussauds</string>
+    <string name="natural_history_title">Natural History Museum</string>
+
+    <!-- string names for each food list item -->
+    <string name="belgo_title">Belgo</string>
+    <string name="bubba_gumps">Bubba Gumps</string>
+    <string name="thai_square">Thai Square</string>
+    <string name="tgi_fridays">TGI Friday</string>
+    <string name="shake_shack">Shake Shack</string>
+    <string name="five_guys">Five Guys</string>
+
+    <!-- string names for each club list item -->
+    <string name="piccadilly">Piccadilly Institute</string>
+    <string name="cafe">Cafe de Paris</string>
+    <string name="bar_rumba">Bar Rumba</string>
+    <string name="cirque_du_soleil">Cirque Du Soleil</string>
+    <string name="hippodrome">Hippodrome</string>
+    <string name="zoobar">Zoo Bar</string>
+
+    <!-- Category name for clubs [CHAR LIMIT=20] -->
+    <string name="category_club">Clubs</string>
+
+    <!-- Category name for the vocabulary words for sites [CHAR LIMIT=20] -->
+    <string name="category_sights">Sights</string>
+
+    <!-- Category name for the vocabulary words for food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for the vocabulary words for theatres [CHAR LIMIT=20] -->
+    <string name="category_theatre">Theatre</string>
+
+    <string name="shaft">Shaftesbury Theatre</string>
+
+    <string name="title_activity_detail1">DetailActivity1</string>
+
+    <string name="piccadilly_extra">piccadilly</string>
+    <string name="cafe_extra">cafe</string>
+    <string name="rumba_extra">rumba</string>
+    <string name="cirque_extra">cirque</string>
+    <string name="hippodrome_extra">hippodrome</string>
+    <string name="zoobar_extra">zoobar</string>
+    <string name="belgo_extra">belgo</string>
+    <string name="bubba_extra">bubba</string>
+    <string name="thai_extra">thai</string>
+    <string name="tgi_extra">tgi</string>
+    <string name="shake_extra">shake</string>
+    <string name="five_extra">five</string>
+    <string name="bigben_extra">big ben</string>
+    <string name="nelson_extra">nelson</string>
+    <string name="tower_extra">tower</string>
+    <string name="zoo_extra">zoo</string>
+    <string name="madam_extra">madam</string>
+    <string name="natural_extra">natural</string>
+    <string name="queens_extra">queens</string>
+    <string name="lyceum_extra">lyceum</string>
+    <string name="vic_extra">vic</string>
+    <string name="royal_extra">royal</string>
+    <string name="prince_extra">prince</string>
+    <string name="gielgud_extra">gielgud</string>
+</resources>
